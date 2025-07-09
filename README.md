@@ -147,7 +147,7 @@ See the [POLE dataset repo](https://github.com/neo4j-graph-examples/pole) for fu
 
 ## Author
 
-Built by [Deeraj](https://linkedin.com/s-k-deeraj) — AI enthusiast.
+Built by [Deeraj](https://www.linkedin.com/in/s-k-deeraj/) — AI enthusiast.
 
 ---
 
