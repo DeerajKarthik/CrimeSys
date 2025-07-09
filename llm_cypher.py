@@ -81,7 +81,7 @@ User question: {query}
 """
 
     payload = {
-        "model": "mistral:latest",  # or llama3:latest
+        "model": "llama3:latest",  # or mistral:latest
         "prompt": prompt,
         "stream": False
     }
