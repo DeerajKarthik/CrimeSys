@@ -1,0 +1,7 @@
+streamlit
+langchain
+neo4j
+pyvis
+networkx
+ollama
+python-dotenv 
