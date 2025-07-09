@@ -41,7 +41,7 @@
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/crimesys.git
+git clone https://github.com/deerajkarthik/crimesys.git
 cd crimesys
 ```
 
